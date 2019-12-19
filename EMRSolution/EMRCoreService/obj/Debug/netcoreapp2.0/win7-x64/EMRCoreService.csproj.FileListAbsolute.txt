@@ -1,0 +1,45 @@
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\appsettings.json
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.exe
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.deps.json
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.json
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.dev.json
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csprojResolveAssemblyReference.cache
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csproj.CoreCompileInputs.cache
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfoInputs.cache
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfo.cs
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+C:\Users\CN199053\Downloads\lzSlan\lzSlan\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.exe
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\appsettings.json
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.deps.json
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.json
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.dev.json
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csprojResolveAssemblyReference.cache
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csproj.CoreCompileInputs.cache
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfoInputs.cache
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfo.cs
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+\\centene\profiles\Redirect\CN199053\My Documents\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\appsettings.json
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.exe
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.deps.json
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.json
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.runtimeconfig.dev.json
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+C:\In Development\In Development\EMRSolution\EMRCoreService\bin\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csprojResolveAssemblyReference.cache
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.csproj.CoreCompileInputs.cache
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfoInputs.cache
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.AssemblyInfo.cs
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.dll
+C:\In Development\In Development\EMRSolution\EMRCoreService\obj\Debug\netcoreapp2.0\win7-x64\EMRCoreService.pdb

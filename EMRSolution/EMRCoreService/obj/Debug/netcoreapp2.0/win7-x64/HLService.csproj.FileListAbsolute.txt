@@ -1,0 +1,15 @@
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\appsettings.json
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.exe
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.deps.json
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.runtimeconfig.json
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.runtimeconfig.dev.json
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.dll
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\bin\Debug\netcoreapp2.0\win7-x64\HLService.pdb
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.csproj.CoreCompileInputs.cache
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.AssemblyInfoInputs.cache
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.AssemblyInfo.cs
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.dll
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.pdb
+C:\Users\pravi\Source\Repos\lzSlan\HL7XML\obj\Debug\netcoreapp2.0\win7-x64\HLService.csprojAssemblyReference.cache

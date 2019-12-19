@@ -1,0 +1,14 @@
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.exe
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.deps.json
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.runtimeconfig.json
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.runtimeconfig.dev.json
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.dll
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\bin\Release\netcoreapp2.0\win7-x64\HL7XML.pdb
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.csprojAssemblyReference.cache
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.csproj.CoreCompileInputs.cache
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.AssemblyInfoInputs.cache
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.AssemblyInfo.cs
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.dll
+C:\Users\pravi\Desktop\Work\Mani\XmlToObj-master\HL7XML\obj\Release\netcoreapp2.0\win7-x64\HL7XML.pdb
